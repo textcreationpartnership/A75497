@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Apologie and vindication (from all false and malignant aspersions) for his excellencie, the right honourable, and most noble, Robert D'Evreux, Earle of Essex, and Ewe, Viscount Hereford, Baron of Chartley, Lord Bourchier and Lovain, inheritour of all his thrice noble fathers honours and vertues: now Lord Generall of all the forces in arms in England and Wales, for the present high and honourable court of Parliament, in defence of the true Protestant religion, laws and liberties of the subject. VVith a true and briefe chronologie of what successefull things have been done, since his excellencie entred into action; and went from London, which was in Aug. 1642. untill this present year, 1644.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75497</idno>
+            <idno type="STC">Wing A3541</idno>
+            <idno type="STC">Thomason E4_25</idno>
+            <idno type="STC">ESTC R12626</idno>
+            <idno type="EEBO-CITATION">99859310</idno>
+            <idno type="PROQUEST">99859310</idno>
+            <idno type="VID">111384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E4[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Apologie and vindication (from all false and malignant aspersions) for his excellencie, the right honourable, and most noble, Robert D'Evreux, Earle of Essex, and Ewe, Viscount Hereford, Baron of Chartley, Lord Bourchier and Lovain, inheritour of all his thrice noble fathers honours and vertues: now Lord Generall of all the forces in arms in England and Wales, for the present high and honourable court of Parliament, in defence of the true Protestant religion, laws and liberties of the subject. VVith a true and briefe chronologie of what successefull things have been done, since his excellencie entred into action; and went from London, which was in Aug. 1642. untill this present year, 1644.</title>
+               </titleStmt>
+               <extent>[2], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper, and are to be sold at his house in Little Britaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111384:1"/>
+            <pb facs="tcp:111384:1" rendition="simple:additions"/>
+            <p>AN APOLOGIE AND VINDICATION <hi>(From all falſe and malignant Aſperſions)</hi> For His EXCELLENCIE, the right Honourable, and moſt Noble, ROBERT D'EVREUX, Earle of <hi>Eſſex,</hi> and <hi>Ewe,</hi> Viſ<g ref="char:EOLhyphen"/>count <hi>Hereford,</hi> Baron of <hi>Chartley,</hi> Lord <hi>Bourchier</hi> and <hi>Louain,</hi> Inheritour of all His thrice Noble Fa<g ref="char:EOLhyphen"/>thers Honours and Vertues: NOW LORD GENERALL of all the Forces in Arms in <hi>England</hi> and <hi>Wales,</hi> for the preſent High and Honourable Court of PARLIAMENT, in defence of the true Proteſtant Religion, Laws and Liberties of the Subject. VVith a true and briefe CHRONOLOGIE of what ſucceſſefull things have been done, ſince His EXCELLENCIE entred into Action; and went from <hi>London,</hi> which was in <hi>Aug.</hi> 1642. untill this preſent year, 1644.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> and are to be ſold at his houſe in <hi>Little Britaine,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:111384:2"/>
+            <pb n="1" facs="tcp:111384:2"/>
+            <head>An APOLOGIE for His EXCELLENCIE <hi>Robert</hi> EARLE of <hi>Eſſex,</hi> &amp;c. LORD GENERALL of all the Forces now in action for the KING and PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have hardly read or heard of any great and famous men but they have beene ſubject to detraction by ſome male<g ref="char:EOLhyphen"/>volent and cenſorious petulant peoples tongues; no Age being without ſuch Animalls: And as this moſt Noble and thrice Honourable his Father was, which cauſed him to pen and publiſh his precedent Apolo<g ref="char:EOLhyphen"/>gie: And even ſo may we not eft-ſoones heare the ma<g ref="char:EOLhyphen"/>lignant mutterings of ſome men, uttering and vapouring de<g ref="char:EOLhyphen"/>tracting aſperſions and ſpeeches of this moſt worthy Noble and Heree <hi>Robert</hi> Earle of <hi>Eſſex,</hi> &amp;c. And although his Excellencies ſeverall actions in ſeverall places ſpeake and proclame his Honour, Valour and Apologie; yet becauſe the mouths of many Malignants are ſubject to calumniate this thrice Noble Generall, I take leave to commemorate his Apologie and Vindication, as followeth:</p>
+            <p>And firſt, there is a ſmall Tract entituled <hi>A Remonſtrance to vindicate his Excellencie</hi> Robert <hi>Earle of</hi> Eſſex <hi>from ſome falſe aſperſions caſt open his proceedings to the</hi> 17 <hi>of Auguſt</hi> 1643. publiſhed and Printed, yet though I confeſſe it to be written
+<pb n="2" facs="tcp:111384:3"/>by ſome ingenious Pen-man, I doe and will forbeare to tranſcribe it, becauſe I will not be guilty of the aſperſion of ploughing with another mans Heifer: But I will ſet down, ingenuouſly the very truth upon mine owne obſervation ga<g ref="char:EOLhyphen"/>thered as I may ſay, out of the very bowells of truth? The 12 of July 1642. both the moſt Honourable Houſes of Lords and Commons choſe and voted <hi>Robert</hi> Earie of <hi>Eſſex,</hi> &amp;c. Lord Generall of their Army, and that they would live and dye with him. About the midſt of Auguſt 1642. our generous Generall paſſed and rode with a gallant company of Lords and Captaines through <hi>London,</hi> and the ſame night went to St. <hi>Albanes</hi> or <hi>Dunſtable;</hi> and not long after his Excellencie paſſed into <hi>Northamptonſhire,</hi> ſent ſome Troops with Amunition, into <hi>Northampton</hi> Towne, and into the Ci<g ref="char:EOLhyphen"/>ty of <hi>Coventrie;</hi> and for a time made his abode and Rendez-vouz in the ſtrong Towne of <hi>Northampton</hi> daring which time, ſome of his Excellencies Forces by his directions, namely, two Troops of Horſe under the Lord <hi>Say's</hi> two ſons from <hi>Banbury,</hi> purſued divers Cavaliers as they fled from <hi>Oxford</hi> towards <hi>Worceſter,</hi> and tooke 8 of them priſoners, which was about the midſt of Septem. 1642. Then ſome of his Excellencies Forces hearing at <hi>Coventrie,</hi> and knowing the Cavaliers had taken <hi>Killingworth</hi> Caſtle within 4 miles of <hi>Coventry,</hi> and there began to fortifie themſelves, ſet upon them, had a great skirmiſh, ſlew many of them, and reſcued the Caſtle from them, which ever ſince hath been, and is kept and fortified by ſome of the <hi>Coventry</hi> ſouldiets for the King and Parliament, and it is a very conſiderable place both for the ſafety of <hi>Coventry</hi> and <hi>Warwicke,</hi> it ſtanding in the very midway betwixt the ſaid City and Towne: And about the ſame time his Excellencie tooke occall on to write a ſerious letter unto the then Lord Major of <hi>London,</hi> which is here in<g ref="char:EOLhyphen"/>ſerted, to the Readers view as followeth.</p>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:111384:3"/>
+            <head>A Letter ſent from his EXCELLENCY <hi>Robert</hi> Earle of <hi>Eſſax,</hi> to the Lord Major of LONDON.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Received ſo great expreſsions of affe<g ref="char:EOLhyphen"/>ctions both to the Cauſe, and to my ſelfe, from the City of London, at my departure from you, that I cannot diſ<g ref="char:EOLhyphen"/>paire; but to obtaine my ſaite from you, that ſhall be an advantage to the Common-wealth; upon a true judgement of the conditi<g ref="char:EOLhyphen"/>on of our affaires, and of that of the Enemy; I am confi<g ref="char:EOLhyphen"/>dent that we may bring this buſineſſe to a quick and hap<g ref="char:EOLhyphen"/>py concluſion; God doth bleſſe us with ſo good ſucceſſe daily: and the other part by their plundering and bur<g ref="char:EOLhyphen"/>ning of Townes and houſes, grow ſo odious that they grow weaker, we ſtronger every where; yet are we in one great ſtreight, and ſuch one, as if be not ſpeedily remedied, may daſh all our hopes, and endanger that peace and liberty which we ſo much labour for; our treaſure, which muſt maintain our Army, growes near an
+<pb n="4" facs="tcp:111384:4"/>end, and you well know our Army conſiſts of ſuch as can<g ref="char:EOLhyphen"/>not be kept one day together without pay: what a ruine it would bring upon us all if a diſbanding ſhould happen, I leave to your judgements: My deſire unto you is, That you would ſupply us with a ſpeedy loane of one hundred thouſand pounds, which I am confident would (with Gods bleſsing) bring theſe unhappy diſtractions to an end quickly: Your City hath hitherto had the honour, next to God, to be the chiefeſt ſafety of the Kingdome and Parliament, this will render you to all poſterity the fi<g ref="char:EOLhyphen"/>niſhers of this great worke. If any thing of particular love or reſpect to me may be any argument here in; I ſhall take it for the greateſt honour that hath befalne me and will oblige myſelfe to acknowledge it by the utmoſt and moſt faithfull endeavour of</p>
+            <closer>
+               <signed>Your faithfull friend ESSEX.</signed>
+               <dateline>
+                  <hi>From the Rendezvouz at</hi> Northampton, <date>
+                     <hi>15. Sept. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="5" facs="tcp:111384:4"/>
+            <p>THus much, gentle Reader, you have heard iſſuing from his Excellencies owne Pea; whoſe actions ſince that time, have daily ſpoken and told his va<g ref="char:EOLhyphen"/>lour and wiſdome, inſomuch that I ſhall need to ſay little more thereof, witneſſe <hi>Keinton</hi> Field, <hi>Redding, Northampton, Coventry, Warwick, Bedford, Newport, Ouborne, Oulney,</hi> and divers other places in <hi>Northamptonſhire, Warwickſhire, Gloce<g ref="char:EOLhyphen"/>ſterſhire, Berkſhire, Bedfordſhire,</hi> and <hi>Buckinghamſhire:</hi> His Ex<g ref="char:EOLhyphen"/>cellencie often frequenting the Parliament Houſe to conſult in his moſt ſerious enterpriſes; his care of regulating and reducing his Army to good Commanders, Officers and well diſciplined Souldiers, though it is a hard taske to a Generall and Commander in chiefe to doe; yet who knoweth not that will be acquainted with the truth, his Excellencie hath frequently done it? and therein he hath taken, as I may ſay, Indefatigible labour, inſomuch that we may verily hope and beleeve that Gods bleſſing goeth along with his Excellen<g ref="char:EOLhyphen"/>cies Valour and Wiſdome: And let us not be unmindfull of giving God the glory and thanks, ſince Auguſt laſt, for the victorious atchievements we have had at <hi>Gloceſter,</hi> at <hi>New<g ref="char:EOLhyphen"/>bery,</hi> and other places: And albeit the ſad newes of raiſing our ſiege at <hi>Newarke</hi> did much deject our hearts; yet how ſoone after did the Lord of Hoſts, whoſe Cauſe our Parlia<g ref="char:EOLhyphen"/>ment Forces have in hand, make our hearts glad with Sir <hi>William Waller</hi> and Sir <hi>William Belfore,</hi> their routing the Hoptonian forces, taking of <hi>Wincheſter,</hi> and other Townes thereabouts in the Weſt?</p>
+            <p>Now becauſe it is ſaid, and their <hi>Aulicus</hi> hath vapoured often of our loſſe of ſome noble Commanders; we doe inge<g ref="char:EOLhyphen"/>niouſly confeſſe we loſt the life of the valerous Lord <hi>Saint-Iohn</hi> at <hi>Keinton</hi> Field battell; and at <hi>Litchfield</hi> laſt yeare, wee loſt the life of the thrice noble and religious Lord <hi>Brooke,</hi>
+               <pb n="6" facs="tcp:111384:5"/>Mr. <hi>Hampden,</hi> and ſome others at other places; but no other Nobleman can I call to minde hath loſt his life: Contrari<g ref="char:EOLhyphen"/>wiſe, on their ſide, ſure we are, the Earle of <hi>Lindſey</hi> their firſt Generall, the Earle of <hi>Northampton,</hi> the old Farle of <hi>Denigh,</hi> the Earle of <hi>Carnarvan,</hi> the Earle of <hi>Sunderland,</hi> Lord <hi>Spen<g ref="char:EOLhyphen"/>cer,</hi> the Lord Viſcount <hi>Faulkland,</hi> the Lord <hi>D'Awbinie,</hi> and the Lord <hi>Iohn</hi> his brother, and the French Marqueſſe, have all loſt their lives in this rebellious quarrell againſt the Par<g ref="char:EOLhyphen"/>liament, the great Repreſentative Body of the Kingdome, ſince this unhappy and unnaturall War.</p>
+            <p>Auguſt 22. After His Majeſty came to <hi>Stoneley</hi> Abbey, within three miles of the City of <hi>Coventry,</hi> and ſummoned it by an Herald, and had Propoſitions from the City, which he would not aſſent unto, he cauſed Ordnance to be planted againſt it: And about the midſt of September Prince <hi>Rapert</hi> commonly called <hi>Robert</hi> came before <hi>Coventry</hi> (which was by this time well fortified) and being growne a great Cap<g ref="char:EOLhyphen"/>taine of the Cavaliers, made a ſhew of beſieging the City, and let flie ſome bullets from their Ordnance, ſome of which bullets lighting againſt the ſtrong walls of the ſaid Ci<g ref="char:EOLhyphen"/>ty recoyled back, and other ſome flying over the walls made ſome holes in ſome houſes, but did not kill or hurt any pen<g ref="char:EOLhyphen"/>ſon; and by the valour and wiſdome of the Lord <hi>Brooke,</hi> Colonell <hi>Iohn Hampden,</hi> (or pious memory) and Colonel <hi>Goodman,</hi> with the aſſiſtance of the Citizens, divers of the Cavaliers were ſlame, and others taken priſoners and Prince <hi>Rupert</hi> with the reſidue of them were ſent away with (as we may ſay) fleas in their ears: Amongſt thoſe that then were taken priſoners was one Captaine <hi>Iohnſon</hi> an eminent Ca<g ref="char:EOLhyphen"/>valier.</p>
+            <p>Come we now to his Excellencie, he in his owne perſon being advanced from <hi>Northampton</hi> into <hi>Warwickſhire,</hi> and quartering at <hi>Keinton,</hi> hard by an hill called Edge hill, be<g ref="char:EOLhyphen"/>yond
+<pb n="7" facs="tcp:111384:5"/>
+               <hi>Warwicke</hi> Towne, about eight miles, which with the Caſtle was before ſecured with a ſtrong garriſon; there was a great battell fought betwixt His Majeſties Forces and his Excellencie, the true Relation whereof is ſo excellently penned by a <hi>reverend Divine,</hi> and an eye witneſſe, <hi>in an in<g ref="char:EOLhyphen"/>genuous Letter ſent to the Lord Major of London,</hi> that I could doe no leſſe then inſert the ſame here as followeth: This memorable battell was fought the 23 of October, 1642.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter ſent from a worthy Divine, to the Right Honourable the LORD MAJOR, of the CITY of <hi>LONDON. Being a true Relation of the Battell fought between His MAIESTIES Forces, and His Excellencie the Earle of</hi> ESSEX. From <hi>Warwick</hi> Caſtle the 24 of October 1642. at two a clock in the morning.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Eſterday being the Lords day, his Excellency intending to march from <hi>Keinton,</hi> a little Village in <hi>Warwickſhire,</hi> towards <hi>Banbury</hi> to relieve it, unexpectedly an Alarm came about eight a clock in the morning, that the Enemy was advancing
+<pb n="8" facs="tcp:111384:6"/>within two or three miles, which accordingly pro<g ref="char:EOLhyphen"/>ved ſo; and it pleaſed God to make my ſelfe the firſt Inſtrument of giving a certaine diſcovery of it, by the helpe of a proſpective Glaſſe from the top of an hill: when the two Armies were drawne in<g ref="char:EOLhyphen"/>to <hi>Battallia,</hi> about two of the clocke in the after<g ref="char:EOLhyphen"/>noone, a very ſore and fierce battell began, which continued about foure houres in mine owne ſight and hearing, much bloud was ſhed, &amp; a gallant ſpi<g ref="char:EOLhyphen"/>rit expreſſed by our Infantry, even to ſuch a degree of valiantneſſe, as may crowne every common Souldier with the honour of a Commander. But the left wing of our Horſe being charged by the Kings right wing, was ſuddenly put to ſlight, ſo that the right wing in which you ſon was pla<g ref="char:EOLhyphen"/>ced, did the beſt ſervice for the Chevalty or Ca<g ref="char:EOLhyphen"/>valty: where your ſonne is (or any of the reſt of my Lords guard) I know not, I hope they are ſafe, becauſe upon diligent enquiry, I yet hear no hurt of any of them. However, if you have conſecrated a ſonne to ſo Noble a Service, I doubt not but you will endeavour to bear it cheerfully, if you ſhould heare that he is either ſtaine or wounded. VVee have loſt none of our Commanders (as we can yet underſtand) except Colonell <hi>Charles Eſſex,</hi> and Sir <hi>Iames Ramſey,</hi> who is other killed or taken: we
+<pb n="9" facs="tcp:111384:6"/>have taken Priſoners from the Kings ſide, the Lord of <hi>Linſey</hi> Generall of the Field, with his ſon Colo<g ref="char:EOLhyphen"/>nell <hi>Vavaſor,</hi> who was Commander of the Kings Guard and Standard, which likewiſe we have ta<g ref="char:EOLhyphen"/>ken: As alſo Colonell <hi>Lunsford,</hi> who are now both at <hi>Warwicke</hi> Caſtle, we did beat the Enemy out of the Field, and gained foure peeces of Ord<g ref="char:EOLhyphen"/>nance. This morning it is expected that three or foure freſh Regiments on our ſide, as namely Co<g ref="char:EOLhyphen"/>lonell <hi>Hampdens,</hi> Colonell <hi>Granthams,</hi> Colonell <hi>Barckhams,</hi> and the Lord <hi>Rochfords</hi> Regiments to joyne with the reſt. The reſidue of our Army to fall on the remainder of the Kings Forces, ho<g ref="char:EOLhyphen"/>ping for as glorious ſucceſſe as before; Colonell <hi>Vavaſor</hi> aſſures us that the King himſelfe for ſome time was in the Army, we heare no certainty yet concerning Prince <hi>Rubert,</hi> ſome ſay he is ſlaine. A few of our Waggons were burned and plunde<g ref="char:EOLhyphen"/>red by the Enemy, who wheeled about into our Reere, but our Muſqueteers played bravely upon them in the meane time, and recovered our VVag<g ref="char:EOLhyphen"/>gons againe, and ſixe peeces Ordnance which we had loſt, our Enemy had the winde more with them, but we had more of the hill, we had but twelve Regiments in the Field, about fifty Troops of Horſe (I thinke) at the moſt, and ſome two Regi<g ref="char:EOLhyphen"/>ments
+<pb n="10" facs="tcp:111384:7"/>of Dragoneers. His Excellencie maintai<g ref="char:EOLhyphen"/>ned the fight moſt gallantly. And our Noble Lords, as the Lord <hi>Wharton, Willow by</hi> of <hi>Parham, Brooke, Roberts,</hi> &amp;c. did as bravely. All this hath God enabled our Army to performe, though from VVedneſday till this moment of my writing, the Common Souldiers have not come into a bed, but have lodged in the open Field in the wet and cold nights, and moſt of them ſcarce eat or drank any thing for 24 houres together, nay, I may ſay for 48, except freſh water where they could get it. Mr. <hi>Aſh</hi> was marvellouſly preſerved from the cru<g ref="char:EOLhyphen"/>elty of foure Cavaliers which ſet upon him, one of them cut off his hat and raiſed his haire with his ſword, but never touched his skin. God hath brought moſt of our Miniſters this night to <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> Mr. <hi>Aſh</hi> amongſt the reſt, and Mr. <hi>Marſhall,</hi> whoſe danger was no leſſe: For my owne part, af<g ref="char:EOLhyphen"/>ter I had diſcharged my duty as farre as I was enab<g ref="char:EOLhyphen"/>led, by paſſing from Regiment to Regiment, and Troope to Troop to encourage them, at the latter end of the fight, not knowing what the iſſue of things might be, in the darkſome Evening, while it was yet light, I rid to <hi>Warwicke</hi> among hundreds of drawne ſwords, and yet was ſaved from the leaſt touch of a blood, thirſty hand. The Cavaliets
+<pb n="11" facs="tcp:111384:7"/>ſome of them purſuing our Horſemen, which as I ſaid before, forſooke their ground in the left wing of the Army, and fled to <hi>Warwicke.</hi> Thus much I made bold to informe your Honour, that you may be able to ſpeake confidently and ſtop the mouth of falſe rumours, you ſhall doe me a favour if you pleaſe to let my noble friend Sergeant Ma<g ref="char:EOLhyphen"/>jor <hi>Skippon</hi> read this letter, becauſe it is newes pro<g ref="char:EOLhyphen"/>per for his element, I deſire Mr. <hi>Caſe</hi> (next to my humble reſpect to your good Lady) may know that I love him and his. If you ſhall thinke it con<g ref="char:EOLhyphen"/>venient to Print this Relation, perhaps it may bee uſefull, if done ſpeedily, you need not doubt of the truth of any part of it.</p>
+         </div>
+         <div type="account">
+            <p>ANd beſides the victory here at <hi>Keinten</hi> Field by <hi>Edge<g ref="char:EOLhyphen"/>hill</hi> on the Parliament ſide, done by his Excellencie, there were ſlaine of eminent men on the Kings ſide, the Earle of <hi>Linaſey,</hi> who was wounded and taken priſoner, and brought to <hi>Warwicke</hi> Caſtle, but ſhone dyed of his wounds: The Lord <hi>D'Aubigney</hi> (commonly called <hi>Dawbeny</hi>) brother to the Duke of <hi>Richmond</hi> and <hi>Lenox;</hi> Sir <hi>Edmund Varney</hi> Knight Marſhall to his Majeſty, and a little before at <hi>Not<g ref="char:EOLhyphen"/>tingham</hi> made his Standard beater; of which three perſons the letter doth not make mention: However, after this vi<g ref="char:EOLhyphen"/>ctory at <hi>Keinton</hi> Field, his Excellencie, as a Victor retreated an readed himſelfe with his conſiderable Army into <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> and there he had the ſtrongly ſcituated Towne and
+<pb n="12" facs="tcp:111384:8"/>Caſtle for his better ſafety, during his abode there; where he was with the acclamations of all good people there tri<g ref="char:EOLhyphen"/>umphantly received and entertained.</p>
+            <p>And the more particular Relation of <hi>Keinton</hi> Field battell was Printed and publiſhed afterwards in divers bookes done by ſpeciall licenſe and Authority of Parliament, undeniable to all reaſonable men.</p>
+            <p>In <hi>November</hi> following, we muſt confeſſe that his Excel<g ref="char:EOLhyphen"/>lencie being blinded with a treachery of a three dayes Trea<g ref="char:EOLhyphen"/>ty, the Enemy taking advantage alſo of a myſtie morning, did in a manner unawares ſet upon part of his Forces at <hi>Brainceford,</hi> commonly called <hi>Branford</hi> in <hi>Mid-leſex</hi> upon the Rever of <hi>Tames,</hi> and there they did, I ſay ſtill, moſt trea<g ref="char:EOLhyphen"/>cherouſly kill and ſlay many of our unprovided men in a ve<g ref="char:EOLhyphen"/>ry barbarous, butcherly and immane manner; they alſo tooke ſome of our men priſoners, but not all, as <hi>Naworth</hi> moſt falſely repotteth; for the next day being the Lords day, the famous and charitable City of <hi>London</hi> ſent almoſt 100. Carts loads of Victualls of all ſorts, Barrells of Beere, and ſome Hogſheads of Wine, to relieve divers thouſands of the remaining Army: And the Lord Generall being quartered neare <hi>Brainceford,</hi> returned deſerved thankes to the City for their love in relieving his hungry and wearied Army: But the Cavaliers did miſerably plunder the poore naked Towne of <hi>Brainceford.</hi> And, ſome ſay, his Majeſty did view the many dead bodies there ſlaine of his Subjects with good contentment, &amp;c. and ſoone after hee made his retreat to <hi>Oxford.</hi>
+            </p>
+            <p>In <hi>March</hi> following, 1642. at <hi>Hopton heath</hi> in <hi>Stafford<g ref="char:EOLhyphen"/>ſhire,</hi> Sir <hi>Iohn Gell</hi> and Sir <hi>William Brereton,</hi> with ſome of
+<pb n="13" facs="tcp:111384:8"/>his Excellencies Forces, ſet upon the Cavaliers under the command of the Earle of <hi>Northampton,</hi> a cruell commander amongſt the Cavaliers; where they for the Parliament had a notable battell, with good ſucceſſe, and loſſe of the Cavali<g ref="char:EOLhyphen"/>ers ſide, and their Commander in chiefe, <hi>Northampton,</hi> was there ſlaine.</p>
+            <p>In <hi>Aprill</hi> following, Prince <hi>Rupert</hi> came to <hi>Brumingham</hi> in <hi>Warwickſhire,</hi> where being but ſmall Forces to reſiſt his Cavaliers, he not only plundered and ranſacked the Towne, but at his going away, he cauſed unmanly a great part of the Towne to be ſet on fire and burned to the ground, which were almoſt 100 houſes, yet albeit the Towne Forces were but an handfull in compariſon of the Cavaliers: <hi>William</hi> Earle of <hi>Denbigh</hi> an eminent Cavalier was there ſhot and ſlaine within a mile of the Towne; as alſo an other eminent man, who was thought to be a <hi>Stewart</hi> was there ſlaine and buried in <hi>Brumingham</hi> Church, with ſuch ſecreſie that it would not be known what he was.</p>
+            <p>At <hi>Chinner</hi> in <hi>Oxfordſhire,</hi> how valiantly and victoriouſly his Excellencies Forces behaved themſelves, appeareth by a letter ſent by his Lordſhip to Mr. Speaker of the Houſe of Commons, dated at <hi>Thame;</hi> which here followeth <hi>verba<g ref="char:EOLhyphen"/>tim</hi> as it was ſent.</p>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:111384:9"/>
+            <head>A Letter ſent from His <hi>EXCELLENCY</hi> ROBERT EARLE of ESSEX, directed to the SPEAKER of the Houſe of <hi>COMMONS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here being ſome of my Horſe that had an Encounter with the Enemy yeſterday be<g ref="char:EOLhyphen"/>ing Sunday; I thought fit to give the Houſe an Account of the particulars of it knowing how apt many are to miſ-report things to our diſadvantage.</p>
+            <p>About two of the clocke on Sunday morning, the Enemy with about twelve hundred Horſe, and a great body of Dragoones fell into a Towne called <hi>Porcham,</hi> where one Troope of Horſe (being Colonell <hi>Morleyes</hi>) was Quartered of which they tooke the greateſt part, and from thence went not farre to another Village called <hi>Chin<g ref="char:EOLhyphen"/>ner,</hi> where they beat up ſome of the new <hi>Bedfor ſhire</hi> Dra<g ref="char:EOLhyphen"/>goons, and tooke ſome of them Priſoners, and three of their Co<g ref="char:EOLhyphen"/>lours,
+<pb n="15" facs="tcp:111384:9"/>and ſome of the Officers behaving themſelves very well, and defending the houſes where they were, they ſet fire on the Towne; theſe being our Quarters, the Alarm came where Ma<g ref="char:EOLhyphen"/>jor <hi>Gunter</hi> lay with three Troops <hi>(viz.)</hi> his owne, Captaine <hi>Shef<g ref="char:EOLhyphen"/>fields,</hi> and Captaine <hi>Croſſes,</hi> whom he preſently drew out and marched towards the Enemy; Colonel <hi>Hampden</hi> being abroad with Sir <hi>Samuel Luke</hi> and onely one man, and ſeeing Major <hi>Gunters</hi> Forces, they did goe along with them, Colonel <hi>Dulbeir</hi> the Quarter-maſter Generall did likewiſe come to them: with theſe they drew neare the Enemy, and finding them marching away kept ſtill upon the Reare for almoſt five miles. In this time there joyned with them Captaine <hi>Sanders</hi> Troop, and Captaine <hi>Buller,</hi> with fifty commanded men, which were ſent to <hi>Chinner</hi> by Sir <hi>Philip Stapleton,</hi> who had the watch here that night at <hi>Thame,</hi> when he diſcovered the fire there, to know the occaſion of it, he likewiſe ſent one Troope of Dragoons under the command of Captaine <hi>Dundaſſe,</hi> who came up to them. There were like<g ref="char:EOLhyphen"/>wiſe ſome few of Colonell <hi>Melves</hi> Dragoons that came to them; at length our men preſſed them ſo neare, that being in a large pa<g ref="char:EOLhyphen"/>ſture ground they drew up, and notwithſtanding the inequality of the numbers, we having not above <hi>300</hi> Horſe, our men charged them very gallantly, and ſlew divers of them; but while they were in the fight, the Enemy being ſo very ſtrong, kept a Body of Horſe for his reſerve, and with that Body wheel'd about and charg'd our men in the Reare, ſo that being encompaſſed and o<g ref="char:EOLhyphen"/>verborne with multitude, they broke and fled, though it was not very farre: For when I heard that our men marched in the Reare of the Enemy, I ſent to Sir <hi>Philip Stapleton,</hi> who preſent<g ref="char:EOLhyphen"/>ly marched toward them with his Regiment; and though he came ſomewhat ſhort of the Skirmiſh, yet ſeeing our men Retreat in that diſorder, he ſtopt them, cauſed them to draw into a Body with him, where they ſtood about an houre: Whereupon the E<g ref="char:EOLhyphen"/>nemy marched away. In this Skirmiſh there were ſlaine forty
+<pb n="16" facs="tcp:111384:10"/>and five on both ſides, whereof the greater part were theirs.</p>
+            <p>They carried off the bodies of divers perſons of quality. On our ſide Major <hi>Gunter</hi> was killed, but ſome ſay he is priſoner, and ſo hurt; a man of much courage and fidelity, his bravery engaging him, and his ſmall party too far: Colonell <hi>Hampden</hi> put himſelf in Captain <hi>Croſſe</hi> his Troop where he charged with much courage, and was unfortunately ſhot through the ſhoulder. Sir <hi>Samuel Luke</hi> thrice taken priſoner, and fortunately reſcued: Captaine <hi>Croſſe</hi> had his horſe killed under him in the middeſt of the Enemy, and was mounted by one of his owne men, who quitted his owne horſe to ſave his Captaine.</p>
+            <p>Captaine <hi>Buller</hi> was ſhot in the necke, who ſhewed very much reſolution in this fight, taking one priſoner after he was ſhot. Mounſieur <hi>Dulbier</hi> with Captaine <hi>Boſa</hi> and Captaine <hi>Ennis,</hi> did likewiſe carry themſelves very well. We likewiſe loſt two colours, <hi>viz.</hi> Major <hi>Gunter</hi> and Captaine <hi>Shefields;</hi> no priſoners of quality were taken by the Enemy, but Captain <hi>Sheffeilds</hi> brother. P. <hi>Rupert</hi> was there in perſon, and the Renagado <hi>Hurry.</hi> We took priſoner one of the Earle of <hi>Berks</hi> ſonnes, Captaine <hi>Gardener,</hi> the late Recorders ſon of <hi>London,</hi> and Captaine <hi>Smith,</hi> with ſome other of quality, and divers priſoners.</p>
+            <p>Sir, this is the true Relation of what paſſed in this buſineſſe, I reſt,</p>
+            <closer>
+               <signed>Your aſſured Friend ESSEX.</signed>
+               <dateline>
+                  <hi>Thame</hi> 
+                  <date>
+                     <hi>19 June, 1643.</hi>
+                  </date>
+               </dateline>
+               <pb n="17" facs="tcp:111384:10"/>
+            </closer>
+            <postscript>
+               <p>Alſo a little before the ſaid time His Excellencie wrote a Letter of gratitude to the Gentlemen Freeholders and well-affected people in the County of <hi>Eſſex,</hi> wherein be<g ref="char:EOLhyphen"/>cauſe his Nobleneſſe is therein ſeen, I have alſo inſerted, as followeth.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A Letter ſent from His EXCELLENCY the EARLE of <hi>Eſſex,</hi> to the Gentlemen, Freeholders, and well-affected people in the County of <hi>Eſſex.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Earing of your readineſſe to aſsiſt in this great Cauſe with your perſons and purſes, for the defence of Reli<g ref="char:EOLhyphen"/>gion and Liberty, and what ever is deare unto us, and of your willing<g ref="char:EOLhyphen"/>neſſe to riſe generally, and to joyne with other Counties, to deliver your ſelves from that ſlavery and miſery that our Enemies would bring up<g ref="char:EOLhyphen"/>on us: I doe with much joy receive your reſolutions, and count it a ſpeciall mercy of God, that makes his peo<g ref="char:EOLhyphen"/>ple ſenſible of their dangers and willing to hazard their lives for him, and do judge it the moſt hopefull meanes
+<pb n="18" facs="tcp:111384:11"/>of concluding theſe unhappy diſtractions of the King<g ref="char:EOLhyphen"/>dome. Therefore I deſire you to aſſure your ſelves of all aſsiſtance from me that the Army can afford, and my earneſt deſire is to helpe you in it. And I deſire ſuch may appeare in this cauſe as have moſt intereſt in it; ſuch of whoſe conſtancy and courage we may be aſſured, men of Religious lives and affections fitteſt to beare Armes for truth of Religion, Men of eſtates to defend thoſe eſtates that the Enemy ſeeks to devoure: The employment is not too meane for the beſt men, and then we ſhall hope for ſucceſſe when ſuch put their hands to the worke; for aſſure your ſelves, the looſneſſe and in<g ref="char:EOLhyphen"/>conſtancie of the Souldiers, amongſt others is one cauſe of the continuance of the Warre: I deſire you to provide your ſelves as well as you can with Armes and neceſſa<g ref="char:EOLhyphen"/>ries, and to bring ſix weeks pay in your purſes, conſide<g ref="char:EOLhyphen"/>ring that the march is long, and but a moneth of that may be ſpent in ſervice: when that time is expired, we hope you may returne home with peace: if we ſhall en<g ref="char:EOLhyphen"/>treat your further helpe, wee ſhall provide for you as well as God will inable us. Chuſe Comman<g ref="char:EOLhyphen"/>ders your ſelves, Colonells and Captaines, when we ſhall heare their names, we ſhall ſend them Commiſsions, and when you ſhall come neare us, wee ſhall ſend ſome able and experience Commanders from our Army to aſsiſt you, Doubt not of your Country in your abſence, we ſhall
+<pb n="19" facs="tcp:111384:11"/>take a courſe for the ſecuring and quieting of the Ma<g ref="char:EOLhyphen"/>lignants; your ſafety is in being in Armes, it will bee your happineſſe to ſight with your enemies at diſtance, and ſo keep them from ſpoyling that as yet peaceable &amp; flouriſhing County. If God ſtirre the bearts of people to appeare generally, and to proſper our endeavours, we hope the ſucceſſe will be happy and comfortable.</p>
+            <closer>
+               <signed>Your aſſured Friend, <hi>ESSEX.</hi>
+               </signed>
+               <dateline>
+                  <hi>Stoken Church,</hi> 
+                  <date>
+                     <hi>9.</hi> Iune, <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <p>NOw, becauſe ſome mouthes have been more open than they ſhould, concerning his Excellencies lying ſo long before <hi>Redding</hi> before he tooke it, let it be granted, that he might have taken it long before he did; but hee muſt then have ſtormed and ſpoyled the Towne, and ſhed abundance of innocent bloud of women and children; of all which he was tender, and like a right Noble Generall, he intending ra<g ref="char:EOLhyphen"/>ther to ſtarve the Enemy then ſtorme the Towne, waited the time to cut off all reliefe to come to the Enemy in the Town, which was at length ſurrendred unto His Excellencie upon Articles and compoſition, with the loſſe of little or no bloud at all, but what happened afterwards by mortality of ſome
+<pb n="20" facs="tcp:111384:12" rendition="simple:additions"/>infectious diſeaſe and naſtineſſe that the Cavaliers had there left behinde them; whereof abundance of His Excellencies Souldiers dyed at <hi>Thame</hi> and thereabouts, and therefore that Towne of <hi>Redding</hi> was not held ſo conſiderable to keep, which made the Enemy the eaſier to obtaine it againe.</p>
+            <p>In <hi>September</hi> 1643. His Excellencie with a very conſide<g ref="char:EOLhyphen"/>rable Army, and being aſſiſted by the <hi>London</hi> Trained Band and Auxilliaries came to raiſe the fierce ſiege at <hi>Glouceſter,</hi> which in a ſhort time he ſucceſſively and victoriouſly did raiſe, relieved the City, and ſent the Cavalier beſiegers pac<g ref="char:EOLhyphen"/>king, who went towards <hi>Newbery,</hi> which Towne indeed they tooke, but His Excellencie purſued and chaſed them cloſe at the heeles, ſlew many of them at <hi>Auburn</hi> Chaſe, and at length gave them battell within a mile of <hi>Newbery,</hi> and there ſlew very many, and tooke many priſoners: This fight was the 20 of <hi>September,</hi> upon a hill neare <hi>Newbery</hi> and <hi>Enburne</hi> Heath; and amongſt thoſe that were ſlaine on the Kings party of eminent men, were the French Marqueſſe <hi>de la Vienville, Dormer</hi> Earle of <hi>Carnarvon, Spencer</hi> Earle of <hi>Sun<g ref="char:EOLhyphen"/>derland, Carey</hi> Lord Viſcount <hi>Faulkand:</hi> The Oxonian <hi>Auli<g ref="char:EOLhyphen"/>cus</hi> giveth <hi>Carnarvon</hi> the attribute of <hi>Incomparable;</hi> indeed he was known for an incomparable ſwearer, and deviſer of exe<g ref="char:EOLhyphen"/>crable oaths, not to be named: <hi>Sunderland</hi> had little in him, but lately came to have the title of an Earledome conferred on him: For <hi>Faulkland,</hi> he was a learned and hopefull Gentle<g ref="char:EOLhyphen"/>man, and pity it was that he ever turned to be a Cavalier, and to loſe his life in ſo bad a cauſe againſt the Parliament, the true Proteſtant Religion, the Lawes of the Land, and Liber<g ref="char:EOLhyphen"/>ty of the Subject, <hi>caetera quis neſcit?</hi>
+            </p>
+            <p>It remaines that I ſhould ſay ſomewhat of the victorious ſucceſſe that our Lord Generall hath had by that moſt valiant Commander Sir <hi>William Waller</hi> (ſubordinate to His Excel<g ref="char:EOLhyphen"/>lencie) in the Weſterne parts of <hi>Hampſhire</hi> and <hi>Wiltſhire,</hi>
+               <pb n="21" facs="tcp:111384:12"/>and the taking of <hi>Wincheſter,</hi> and other Towns in thoſe parts.</p>
+            <p>It is alſo knowne to the world the victorious and happy ſucceſſes that that the Parliament Forces have had in taking of <hi>Milford</hi> Haven and divers other places in <hi>Pembrokeſhire,</hi> and others at <hi>Nawptwich,</hi> &amp; other places in <hi>Cheſhire, Manche<g ref="char:EOLhyphen"/>ſter,</hi> and other places in <hi>Lancaſhire,</hi> done and obtained by Sir <hi>William Brereton</hi> &amp; Sir <hi>Iohn Gell:</hi> And who is alſo ignorant of the happy ſucceſſe that God hath lately given to the Parlia<g ref="char:EOLhyphen"/>ment Forces at <hi>Selby</hi> in <hi>Yorkſhire</hi> under the command of the noble and valiant Lord <hi>Fairfax,</hi> and Sir <hi>Thomas Fairfax</hi> his generous ſon: For all which our Parliament victories, who knoweth not that of late on Tueſday called Eaſter Tueſday, by command of the higher Powers in Parliament, it was or<g ref="char:EOLhyphen"/>dained, and indeed made a Holyday, and ſet apart for thankſ<g ref="char:EOLhyphen"/>giving to Almighty God for His mercies in the late recited ſucceſſes: And in all which His Excellencie next unto God, whoſe Cauſe we have in hand, is deſervedly crowned with Honour:
+<q>
+                  <l>Sit tota Britannia teſtis,</l>
+                  <l>Vivat<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Eſſexius Heros.</l>
+               </q>
+            </p>
+            <p>And all the premiſes conſidered, I cannot but wonder at the unparallel'd falſity &amp; impudencie of <hi>G. Naworth</hi> the Ox<g ref="char:EOLhyphen"/>onian Almanack-maker, who in his Almanack for this pre<g ref="char:EOLhyphen"/>ſont year 1644. in his brief Chronologie of the moſt remark<g ref="char:EOLhyphen"/>able occurrences ſince the beginning of this Rebellion (as he, forſooth, is pleaſed to tearme this our lawfull defenſive War for the King and Parliament) to invert, pervert and falſifie His Excellencies victorie for the Parliament at <hi>Keinton</hi> Field and elſewhere; which his falſities by the premiſes are con<g ref="char:EOLhyphen"/>futed; and I could more fully and particularly confute all his falſe glozing and paraſiticall Chronologie, but that I find it is already done by Mr. <hi>Iohn Booker,</hi> as indeed it was, and is moſt properly belonging unto him to do, <hi>dixi.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="22" facs="tcp:111384:13"/>
+            <head>A true and briefe <hi>Chronologie</hi> of what ſucceſſefull things have been done ſince His <hi>Excel<g ref="char:EOLhyphen"/>lencie</hi> entred into action, <hi>Lord Generall</hi> for the <hi>Parliament</hi> Forces, upon the <hi>King</hi> His begin<g ref="char:EOLhyphen"/>ning to declare His Cavalier War a<g ref="char:EOLhyphen"/>gainſt the <hi>Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">N</seg>Ext after <hi>Kingſton</hi> upon <hi>Hull</hi> reſiſted His Ma<g ref="char:EOLhyphen"/>jeſties hoſtile entrance: The City of <hi>Co<g ref="char:EOLhyphen"/>ventry</hi> in <hi>Warwickſhire,</hi> an eminent and very conſiderable place, in the very centre or midſt of <hi>England,</hi> ſtood out and denied His Majeſties entrance with His Cavaliers, <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 22. 1642. and the City was out of hand better fortified, and His Excellencie ſent Ordnance and Ammunition into it. About the ſame time the Towne of <hi>Northampton</hi> was forti<g ref="char:EOLhyphen"/>fied. <hi>Warwicke</hi> Towne and the Caſtle (the ſeat of the Lord <hi>Brook</hi>) did the ſame, about the ſame time.</p>
+            <p>His Excellencies victory at <hi>Kinton</hi> battell, <hi>October</hi> 22. 1642.</p>
+            <p>
+               <hi>Winſor,</hi> and the ſtrong conſiderable Caſtle, fortified by His Excellencie with a garriſon of <hi>London</hi> Souldiers, about the beginning of the yeare, 1643.</p>
+            <p>
+               <hi>Redding</hi> ſurrendred to His Excellencie 27 <hi>Aprill,</hi> 1643.</p>
+            <p>
+               <hi>Cirenceſter</hi> commonly called <hi>Ciceſter,</hi> ſurpriſed by His Excellencies Forces 16 <hi>September</hi> 1643.</p>
+            <p>
+               <hi>Gloceſter</hi> ſiege raiſed and the City relieved, 8 <hi>Sept.</hi> 1643.</p>
+            <p>The Enemy purſued by His Excellencie, chaſed and beaten at <hi>Auberne</hi> Chaſe, 18. <hi>Septem.</hi> 1643.</p>
+            <pb n="23" facs="tcp:111384:13"/>
+            <p>His Excellencie ſtill purſued the Enemy, and gave them battell with victorious ſucceſſe near <hi>Newbery,</hi> 20. Sept. 1643.</p>
+            <p>
+               <hi>Newport Panell,</hi> and other places in <hi>Hartfordſhire, Bucking<g ref="char:EOLhyphen"/>hamſhire, Bedfordſhire</hi> and <hi>Northamptonſhire</hi> taken in, and held by His Excellencie in <hi>November</hi> and <hi>December,</hi> 1643.</p>
+            <p>Sir <hi>William Wallers</hi> victorious ſucceſſe, routing the Ene<g ref="char:EOLhyphen"/>my neare <hi>Wincheſter,</hi> and his taking in of <hi>Wincheſter, Ando<g ref="char:EOLhyphen"/>ver,</hi> and other Townes in <hi>Hampſhire,</hi> in <hi>March</hi> 1643. 1644. and the City of <hi>Salisbury</hi> reſcued and ſurpriſed ſoone after.</p>
+            <p>
+               <hi>Selby</hi> in <hi>Yorkeſhire</hi> taken by the victorious hand of the Lord <hi>Fairfax</hi> and Sir <hi>Thomas Fairfax,</hi> in <hi>April</hi> 1644. &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>To the READER.</head>
+            <p>THus endeth the firſt part of this Apologie for His <hi>Excellen<g ref="char:EOLhyphen"/>cie,</hi> and his Actions untill <hi>May</hi> laſt, when as on the <hi>14</hi> day of the ſame Moneth His <hi>Excellencie</hi> went out of <hi>London.</hi> The ſecond part of His <hi>Excellencies</hi> expeditions ſince that time, you may expect very ſuddenly, <hi>vale.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>Publiſhed by Authority.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
